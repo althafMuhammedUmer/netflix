@@ -1,0 +1,337 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: auto;
+    background-color: rgb(47, 47, 47);
+    
+    
+}
+.netflix-logo{
+
+    
+    
+    margin-right: 855px;
+}
+
+
+.logo{
+    padding-top: 34px;
+    width: 180px;
+    padding-left: 50px;
+
+}
+.page1{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("https://assets.nflxext.com/ffe/siteui/vlv3/8ee18735-ada3-45be-b383-a94701054bb9/bffa76da-b175-43bc-b7ef-e47a5095b535/IN-en-20220613-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+    
+    
+    
+}
+.buttons{
+    margin-left: 450px;
+    margin-top: -61px;
+    padding-right: 59px;
+}
+.button{
+    
+    color: white;
+    background-color: red;
+    border:none;
+    padding: 7px 17px;
+    cursor: pointer;
+    float: right;
+    font-size: 1rem;
+    line-height: normal;
+
+}
+#language-picker{
+    float:right;
+    color: white;
+    background-color: transparent;
+    padding: 7px 20px;
+    text-align: center;
+    cursor: pointer;
+    padding-left: 20px;
+   
+    
+}
+.lan-button{
+    padding-right: 10%;
+}
+.story-card{
+    
+    width: 100%;
+    padding: 75px 0;
+    margin: 0 auto;
+}
+
+.story-card-title{
+    margin-top: 85px;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+.story-subtitle{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.page2{
+    width: 100%;
+    height: 455px;
+    background-color:black;
+    margin-top: 8px;
+    display: flex;
+}
+.texts{
+    padding-right: 180px;
+    color: white;
+
+    
+}
+.para{
+    margin-left: 145px;
+    margin-top: 150px;
+
+}
+.TV-img{
+    width: auto;
+    height: auto;
+}
+.video-space{
+    
+    margin-top: 150px;
+    margin-right: 80px;
+    
+}
+.page3{
+    display: flex;
+    margin-top: 8px;
+    width: 100%;
+    height: 575px;
+    background-color:black;
+}
+.img-page3{
+    width: 599px;
+    margin-left: 125px;
+    margin-top: 66px;
+}
+.logo-page-3{
+    
+    
+    
+}
+.para2{
+    color: white;
+    margin-top: 86px;
+    margin-right: 53px;
+}
+.text1-page3{
+    margin-top: 152px;
+    font-size: 45px;
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-right: 240px;
+}
+.para-page3{
+    font-size: 25px;
+    margin-right: 190px;
+    padding-left: 39px;
+    margin-top: 20px;
+}
+.page4{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-top: 8px;
+    color: white;
+}
+.para3-page4{
+    padding-left: 238px;
+    margin-top: 128px;
+    font-size: 28px;
+}
+.text2-page4{
+    font-size: 20px;
+    margin-left: 9px;
+}
+.video2{
+    margin-left: 140px;
+    margin-top: 57px;
+}
+.page5{
+    margin-top: 8px;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+.cap-page5{
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+
+    
+    
+}
+.t1-page5{
+    width:45%;
+    margin-top: 22%;
+    font-size: 50px;
+    margin-left: 150px;
+}
+.t2-page5{
+    padding: 3px;
+    font-size: 22px;
+    width: 420px;
+    margin-left: 150px;
+}
+.page6{
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+    height: 940px;
+    
+    align-items: center;
+    
+    
+   
+    
+}
+.boxes{
+    width: 53%;
+   
+    
+    
+
+}
+
+
+.box1 ,.box2 ,.box3 ,.box4 ,.box5 ,.box6{
+    
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(48, 48, 48);
+    padding-left: 50px;
+    padding: 20px;
+    font-size: 15px;
+    
+       
+}
+.heading-page6 h1{
+    margin-top: 75px;
+    color: white;
+    font-size: 50px;
+   
+}
+.form{
+    color: white;
+    margin-top: 50px;
+}
+.form h3{
+    font-size: 1.3rem;
+}
+.form .email{
+    margin: auto;
+
+    
+}
+.form button a{
+    color: white;
+    text-decoration: none;
+    border: none;
+    
+}
+.email input{
+    margin-top: 15px;
+    height:55px;
+    width: 490px;
+
+}
+.email button{
+    height: 65px;
+    width: 230px;
+    margin: auto;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+
+}
+button-g{
+    border: none;
+    
+}
+.footer{
+    margin-top: 8px;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    color:rgb(117, 117, 117);
+    
+
+}
+
+
+.footer h1{
+    display: flex;
+    
+    flex-direction:;
+    padding-left: 16%;
+    font-size: 22px;
+    padding-top: 70px;
+
+    
+    
+}
+
+.b1{
+    
+    
+    display: flex;
+    flex-direction: column;
+    font-size: 19px;
+    padding-top: 70px;
+    
+
+
+    
+}
+.b-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 250px;
+    padding-right: 130px;  
+
+}
+.button-f{
+    background-color: black;
+    height: 200px;
+    
+
+}
+.f-last{
+    padding-left: 244px;
+    
+}
+.b-f{
+    margin-top: 20px;
+    padding: 15px 28px;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
